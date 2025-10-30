@@ -16,4 +16,3 @@
 - *Android Libraries (Kotlin)*
 - *Unit Testing in Java/Kotlin*
 
-![quote2](https://user-images.githubusercontent.com/2780145/109364626-334c8a80-78b5-11eb-9d20-70d056b66377.png)
