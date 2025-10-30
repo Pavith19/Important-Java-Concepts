@@ -142,12 +142,16 @@ Legacy = heritage of old java version.
 
 Legacy classes and interfaces - Enumeration, Vector, Stack, Dictionary, HashTable, Properties...
 
+---
 
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
 
 ---
 
-**Written by:** Pavith Bambaravanage  
-**GitHub:** [https://github.com/Pavith19](https://github.com/Pavith19)
-
----
 
