@@ -159,3 +159,16 @@
 - *Autoboxing and unboxing feature converts primitive into object and object into primitive automatically.*
 - *There is only call by value in java, not call by reference.*
 - *A method in java that calls itself is called recursive method.*
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
+
