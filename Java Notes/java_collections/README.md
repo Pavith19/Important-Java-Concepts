@@ -141,3 +141,13 @@ All legacy classes were re-engineered to support generic in JDK5.
 Legacy = heritage of old java version.
 
 Legacy classes and interfaces - Enumeration, Vector, Stack, Dictionary, HashTable, Properties...
+
+
+
+---
+
+**Written by:** Pavith Bambaravanage  
+**GitHub:** [https://github.com/Pavith19](https://github.com/Pavith19)
+
+---
+
