@@ -134,3 +134,16 @@ You can rethrow and exception by throwing same exception in catch block.
 If you are creating your own Exception that is known as custom exception or user-defined exception. Java custom exceptions are used to customize the exception according to user need.
 
 By the help of custom exception, you can have your own exception and message.
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
+
