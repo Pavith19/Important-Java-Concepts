@@ -333,3 +333,16 @@ This method returns a hash code based on the contents of the specified array.<br
 NOTE : All the above methods belongs to java.util.Array
 
 All the methods mentioned above with int[] examples can be also used by all other primitive, wrapper and object data types (Eg - byte, short, long, Byte, Short, Int, etc)
+
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
