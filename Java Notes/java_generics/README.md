@@ -280,3 +280,15 @@ A method is not allowed to catch an instance of a type parameter.
 public void print(List<String> stringList) { }  // Error
 public void print(List<Integer> integerList) { }
 ```
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
