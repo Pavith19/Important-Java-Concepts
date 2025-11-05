@@ -431,3 +431,15 @@ System.out.println(Runtime.getRuntime().availableProcessors());
 System.out.println("Total Memory: "+Runtime.totalMemory());  
 System.out.println("Free Memory: "+Runtime.freeMemory());  
 ```
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
