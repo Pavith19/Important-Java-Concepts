@@ -113,3 +113,15 @@ JVM (Java Virtual Machine) has various sub components internally. You can see th
   - **Interpreter:** Read bytecode stream then execute the instructions.
   - **Virtual processor** 
   - **NOTE -** JVM uses optimization technique to decide which part to be interpreted and which part to be used with JIT compiler.
+
+  ---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
