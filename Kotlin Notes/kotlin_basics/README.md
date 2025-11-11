@@ -1229,3 +1229,15 @@ color shades
 setup recyclerview//
 let 
 ```
+
+---
+
+<div align="center">
+
+### ✍️ Written by [**Pavith Bambaravanage**](https://github.com/Pavith19)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Pavith19)
+
+</div>
+
+---
