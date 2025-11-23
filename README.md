@@ -19,12 +19,13 @@
 ## [1] Java - Fundamentals & OOPS [Done]
 ### NOTES [Useful Info] :
 
-*[-> All 50 Java Keywords with definitions & examples](Java Notes/java_keywords)*
+*[→ All 50 Java Keywords with definitions & examples](Java_Notes/java_keywords)*
 
-*[-> Java Features, Execution Process & JVM Internals](Java Notes/java_how_it_works)*
+*[→ Java Features, Execution Process & JVM Internals](Java_Notes/java_how_it_works)*
 
-*[-> Java Fundamentals & OOPS Concepts](Java Notes/java_basics_and_oops)*
+*[→ Java Fundamentals & OOPS Concepts](Java_Notes/java_basics_and_oops)*
 
-*[-> Java OOPS - few points to remember](Java Notes/java_oops_rules)*
+*[→ Java OOPS - few points to remember](Java_Notes/java_oops_rules)*
 
-*[-> Methods of Number, Char, String, Array Classes](Java Notes/java_important_methods)*
+*[→ Methods of Number, Char, String, Array Classes](Java_Notes/java_important_methods)*
+
